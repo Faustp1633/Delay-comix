@@ -1,0 +1,5 @@
+{
+  "name": "ComicGen AI Studio",
+  "description": "Create custom comic strips with consistent characters using Gemini AI. Define characters, write dialogues, and generate high-quality panels.",
+  "requestFramePermissions": []
+}
